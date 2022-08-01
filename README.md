@@ -1,7 +1,7 @@
 - # Sobre mim
 - ## Eu sou a Fernanda
 - ### Meu e-mail é [fernanda.batista.soares30@gmail.com]
-- 💞️ I’m looking to collaborate on ...
+- #### Eu estou aprendendo sobre o scrat e o java, sou estudante do 1 ano
 - 📫 How to reach me ...
 
 <!---
