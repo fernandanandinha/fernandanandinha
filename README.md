@@ -1,5 +1,5 @@
-- # sobre mim
-- ## eu sou a Fernanda
+- # Sobre mim
+- ## Eu sou a Fernanda
 - ### Meu e-mail é [fernanda.batista.soares30@gmail.com]
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
